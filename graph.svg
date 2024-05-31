@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks"
+    width="1916" height="896" viewBox="0 0 958 448">
+    <rect width="958" height="448" fill="white" />
+    <g fill="none" stroke-miterlimit="10" transform="translate(48,21)">
+        <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+                <path class="background" aria-hidden="true" d="M0,0h900v400h-900Z" />
+                <g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+                        aria-label="X-axis for a discrete scale with 13 values: KW, KW1, KW2, KW3, KVA, ending with KVAR3">
+                        <g transform="translate(0.5,400.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(42,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(110,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(178,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(246,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(314,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(382,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(450,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(518,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(586,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(654,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(722,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(790,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(858,0)" x2="0" y2="5" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="middle"
+                                        transform="translate(42,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KW</text><text text-anchor="middle"
+                                        transform="translate(110,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KW1</text><text text-anchor="middle"
+                                        transform="translate(178,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KW2</text><text text-anchor="middle"
+                                        transform="translate(246,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KW3</text><text text-anchor="middle"
+                                        transform="translate(314,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KVA</text><text text-anchor="middle"
+                                        transform="translate(382,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KVAr</text><text text-anchor="middle"
+                                        transform="translate(450,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KVArh</text><text text-anchor="middle"
+                                        transform="translate(518,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KVA1</text><text text-anchor="middle"
+                                        transform="translate(586,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KVA2</text><text text-anchor="middle"
+                                        transform="translate(654,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KVA3</text><text text-anchor="middle"
+                                        transform="translate(722,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KVAR1</text><text text-anchor="middle"
+                                        transform="translate(790,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KVAR2</text><text text-anchor="middle"
+                                        transform="translate(858,15)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">KVAR3</text></g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,0)" x2="900" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis"
+                        aria-label="Y-axis for a linear scale with values from 0.0000 to 0.0010">
+                        <g transform="translate(0.5,0.5)">
+                            <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none" />
+                            <g>
+                                <g class="mark-rule role-axis-tick" pointer-events="none">
+                                    <line transform="translate(0,400)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,360)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,320)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,280)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,240)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,200)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,160)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,120)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,80)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,40)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                    <line transform="translate(0,0)" x2="-5" y2="0" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                                <g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end"
+                                        transform="translate(-7,403)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0.0000</text><text text-anchor="end"
+                                        transform="translate(-7,363)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0.0001</text><text text-anchor="end"
+                                        transform="translate(-7,323)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0.0002</text><text text-anchor="end"
+                                        transform="translate(-7,283)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0.0003</text><text text-anchor="end"
+                                        transform="translate(-7,243)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0.0004</text><text text-anchor="end"
+                                        transform="translate(-7,203)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0.0005</text><text text-anchor="end"
+                                        transform="translate(-7,163)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0.0006</text><text text-anchor="end"
+                                        transform="translate(-7,123.00000000000001)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">0.0007</text><text text-anchor="end"
+                                        transform="translate(-7,82.99999999999999)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">0.0008</text><text text-anchor="end"
+                                        transform="translate(-7,43.000000000000036)" font-family="sans-serif"
+                                        font-size="10px" fill="#000" opacity="1">0.0009</text><text text-anchor="end"
+                                        transform="translate(-7,3)" font-family="sans-serif" font-size="10px"
+                                        fill="#000" opacity="1">0.0010</text></g>
+                                <g class="mark-rule role-axis-domain" pointer-events="none">
+                                    <line transform="translate(0,400)" x2="0" y2="-400" stroke="#888" stroke-width="1"
+                                        opacity="1" />
+                                </g>
+                            </g>
+                            <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none" />
+                        </g>
+                    </g>
+                    <g class="mark-rect role-mark" role="graphics-symbol" aria-roledescription="rect mark container">
+                        <path d="M10,156.76000000000002h65v243.23999999999998h-65Z" fill="steelblue" />
+                        <path d="M78,270.756h65v129.24400000000003h-65Z" fill="steelblue" />
+                        <path d="M146,270.756h65v129.24400000000003h-65Z" fill="steelblue" />
+                        <path d="M214,15.067999999999993h65v384.932h-65Z" fill="steelblue" />
+                        <path d="M282,284.88800000000003h65v115.11199999999997h-65Z" fill="steelblue" />
+                        <path d="M350,263.604h65v136.39600000000002h-65Z" fill="steelblue" />
+                        <path d="M418,199.464h65v200.536h-65Z" fill="steelblue" />
+                        <path d="M486,60.344000000000044h65v339.65599999999995h-65Z" fill="steelblue" />
+                        <path d="M554,200.644h65v199.356h-65Z" fill="steelblue" />
+                        <path d="M622,261.136h65v138.86399999999998h-65Z" fill="steelblue" />
+                        <path d="M690,270.756h65v129.24400000000003h-65Z" fill="steelblue" />
+                        <path d="M758,270.756h65v129.24400000000003h-65Z" fill="steelblue" />
+                        <path d="M826,29.336000000000027h65v370.664h-65Z" fill="steelblue" />
+                    </g>
+                    <g class="mark-text role-mark" role="graphics-object" aria-roledescription="text mark container">
+                        <text text-anchor="middle" transform="translate(0,-2)" font-family="sans-serif" font-size="11px"
+                            fill="#333" fill-opacity="1" /></g>
+                </g>
+                <path class="foreground" aria-hidden="true" d="" display="none" />
+            </g>
+        </g>
+    </g>
+</svg>
